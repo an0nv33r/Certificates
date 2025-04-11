@@ -10,40 +10,40 @@ The certificates are organized into the following categories:
 
 - **Internships**
 - **Cloud**
-- **Cyber Security**
-- **Data Science**
-- **Ethical Hacking**
+- **Cyber_Security**
+- **Data_Science**
+- **Ethical_Hacking**
 - **Linux**
 - **Programming**
-- **Web Development**
+- **Web_Development**
 - **etc**
 
 ---
 
 ## 🖼️ Featured Certificate
 
-![Gurugram Police Internship](https://github.com/an0nv33r/Certificates/blob/main/Internships/Gurugram%20Police%20Internship.jpg)
+![Gurugram Police Internship](https://github.com/an0nv33r/Certificates/blob/main/Internships/Gurugram_Police_Internship.jpg)
 
-[🔗 View Full Size](https://github.com/an0nv33r/Certificates/blob/main/Internships/Gurugram%20Police%20Internship.jpg)
+[🔗 View Full Size](https://github.com/an0nv33r/Certificates/blob/main/Internships/Gurugram_Police_Internship.jpg)
 
 ---
 
 ## 📜 Explore Certificate Categories
 
 ### 🧳 Internships
-- [Internships/](https://github.com/an0nv33r/Certificates/tree/main/Internships)  
+- [Internships/](https://github.com/an0nv33r/Certificates/tree/main/Internships)
 
 ### ☁️ Cloud
 - [Cloud/](https://github.com/an0nv33r/Certificates/tree/main/Cloud)
 
 ### 🔐 Cyber Security
-- [Cyber Security/](https://github.com/an0nv33r/Certificates/tree/main/Cyber%20Security)
+- [Cyber_Security/](https://github.com/an0nv33r/Certificates/tree/main/Cyber_Security)
 
 ### 📊 Data Science
-- [Data Science/](https://github.com/an0nv33r/Certificates/tree/main/Data%20Science)
+- [Data_Science/](https://github.com/an0nv33r/Certificates/tree/main/Data_Science)
 
 ### 🧠 Ethical Hacking
-- [Ethical Hacking/](https://github.com/an0nv33r/Certificates/tree/main/Ethical%20Hacking)
+- [Ethical_Hacking/](https://github.com/an0nv33r/Certificates/tree/main/Ethical_Hacking)
 
 ### 🐧 Linux
 - [Linux/](https://github.com/an0nv33r/Certificates/tree/main/Linux)
@@ -52,7 +52,7 @@ The certificates are organized into the following categories:
 - [Programming/](https://github.com/an0nv33r/Certificates/tree/main/Programming)
 
 ### 🌐 Web Development
-- [Web Development/](https://github.com/an0nv33r/Certificates/tree/main/Web%20Development)
+- [Web_Development/](https://github.com/an0nv33r/Certificates/tree/main/Web_Development)
 
 ### 📂 Miscellaneous
 - [etc/](https://github.com/an0nv33r/Certificates/tree/main/etc)
