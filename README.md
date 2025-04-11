@@ -8,6 +8,7 @@ Welcome to my digital portfolio showcasing the certifications I've earned across
 
 The certificates are organized into the following categories:
 
+- **Internships**
 - **Cloud**
 - **Cyber Security**
 - **Data Science**
@@ -19,16 +20,18 @@ The certificates are organized into the following categories:
 
 ---
 
-## 🖼️ Sample Certificates
+## 🖼️ Featured Certificate
 
-### ✅ Featured Certificate
-![CompTIA IT Fundamentals+](https://github.com/an0nv33r/Certificates/blob/main/CompTIA%20IT%20Fundamentals%2B%20(FC0-U61).jpg)
+![Gurugram Police Internship](https://github.com/an0nv33r/Certificates/blob/main/%23/Gurugram%20Police%20Internship.jpg)
 
-[🔗 View Full Size](https://github.com/an0nv33r/Certificates/blob/main/CompTIA%20IT%20Fundamentals%2B%20(FC0-U61).jpg)
+[🔗 View Full Size](https://github.com/an0nv33r/Certificates/blob/main/%23/Gurugram%20Police%20Internship.jpg)
 
 ---
 
 ## 📜 Explore Certificate Categories
+
+### 🧳 Internships
+- [Internships/](https://github.com/an0nv33r/Certificates/tree/main/Internships)  
 
 ### ☁️ Cloud
 - [Cloud/](https://github.com/an0nv33r/Certificates/tree/main/Cloud)
@@ -64,5 +67,6 @@ This portfolio is a living document and will continue to grow as I earn new cert
 
 ## 📬 Contact
 
-If you'd like to connect or verify a certificate, feel free to reach out via GitHub or LinkedIn.
+If you'd like to connect or verify a certificate, feel free to reach out:
 
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/an0nv33r/)
