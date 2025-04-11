@@ -31,31 +31,31 @@ The certificates are organized into the following categories:
 ## 📜 Explore Certificate Categories
 
 ### 🧳 Internships
-- [Internships/](https://github.com/an0nv33r/Certificates/tree/main/Internships)
+- [Internships](https://github.com/an0nv33r/Certificates/tree/main/Internships)
 
 ### ☁️ Cloud
-- [Cloud/](https://github.com/an0nv33r/Certificates/tree/main/Cloud)
+- [Cloud](https://github.com/an0nv33r/Certificates/tree/main/Cloud)
 
 ### 🔐 Cyber Security
-- [Cyber_Security/](https://github.com/an0nv33r/Certificates/tree/main/Cyber_Security)
+- [Cyber_Security](https://github.com/an0nv33r/Certificates/tree/main/Cyber_Security)
 
 ### 📊 Data Science
-- [Data_Science/](https://github.com/an0nv33r/Certificates/tree/main/Data_Science)
+- [Data_Science](https://github.com/an0nv33r/Certificates/tree/main/Data_Science)
 
 ### 🧠 Ethical Hacking
-- [Ethical_Hacking/](https://github.com/an0nv33r/Certificates/tree/main/Ethical_Hacking)
+- [Ethical_Hacking](https://github.com/an0nv33r/Certificates/tree/main/Ethical_Hacking)
 
 ### 🐧 Linux
-- [Linux/](https://github.com/an0nv33r/Certificates/tree/main/Linux)
+- [Linux](https://github.com/an0nv33r/Certificates/tree/main/Linux)
 
 ### 💻 Programming
-- [Programming/](https://github.com/an0nv33r/Certificates/tree/main/Programming)
+- [Programming](https://github.com/an0nv33r/Certificates/tree/main/Programming)
 
 ### 🌐 Web Development
-- [Web_Development/](https://github.com/an0nv33r/Certificates/tree/main/Web_Development)
+- [Web_Development](https://github.com/an0nv33r/Certificates/tree/main/Web_Development)
 
 ### 📂 Miscellaneous
-- [etc/](https://github.com/an0nv33r/Certificates/tree/main/etc)
+- [etc](https://github.com/an0nv33r/Certificates/tree/main/etc)
 
 ---
 
