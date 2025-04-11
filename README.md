@@ -22,9 +22,9 @@ The certificates are organized into the following categories:
 
 ## 🖼️ Featured Certificate
 
-![Gurugram Police Internship](https://github.com/an0nv33r/Certificates/blob/main/%23/Gurugram%20Police%20Internship.jpg)
+![Gurugram Police Internship](https://github.com/an0nv33r/Certificates/blob/main/Internships/Gurugram%20Police%20Internship.jpg)
 
-[🔗 View Full Size](https://github.com/an0nv33r/Certificates/blob/main/%23/Gurugram%20Police%20Internship.jpg)
+[🔗 View Full Size](https://github.com/an0nv33r/Certificates/blob/main/Internships/Gurugram%20Police%20Internship.jpg)
 
 ---
 
